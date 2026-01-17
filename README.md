@@ -38,11 +38,12 @@ git clone https://github.com/username/finance-app.git
 
 Screenshot
 
-Dashboard:
+Dashboard: <img width="1600" height="900" alt="dashbo" src="https://github.com/user-attachments/assets/1115644b-1a11-42c6-b2a1-a4f81c49096f" />
 
-Tambah Transaksi:
+Tambah Transaksi: <img width="1600" height="900" alt="tam" src="https://github.com/user-attachments/assets/a03d0630-69b1-4b20-b38b-65e90576a012" />
 
-Daftar Transaksi:
+Daftar Transaksi:<img width="1600" height="900" alt="riway" src="https://github.com/user-attachments/assets/4f5d9a6b-9027-444d-9acc-c418c42b5827" />
+
 Catatan
 
 Ini adalah project portofolio pribadi.
