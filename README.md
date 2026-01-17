@@ -21,7 +21,7 @@ Pengguna dapat mencatat pendapatan, pengeluaran, serta melihat dashboard visuali
 ## Cara Menjalankan
 
 1. Clone repository ini:
-```bash
+
 git clone https://github.com/username/finance-app.git
 
     Buat database:
