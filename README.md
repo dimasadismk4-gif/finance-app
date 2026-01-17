@@ -22,7 +22,7 @@ Pengguna dapat mencatat pendapatan, pengeluaran, serta melihat dashboard visuali
 
 1. Clone repository ini:
 
-git clone https://github.com/username/finance-app.git
+git clone https://github.com/dimasadismk4-gif/finance-app.git
 
     Buat database:
 
