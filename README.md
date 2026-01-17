@@ -48,3 +48,6 @@ Catatan
 
 Ini adalah project portofolio pribadi.
 Desainnya responsif, modern, dan siap untuk dikembangkan lebih lanjut.
+
+## AUTHOR
+Dimas Adi Prabowo
