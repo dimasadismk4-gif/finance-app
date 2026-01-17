@@ -44,7 +44,7 @@ Tambah Transaksi: <img width="1600" height="900" alt="tam" src="https://github.c
 
 Daftar Transaksi:<img width="1600" height="900" alt="riway" src="https://github.com/user-attachments/assets/4f5d9a6b-9027-444d-9acc-c418c42b5827" />
 
-Menu Web:<img width="1600" height="900" alt="inde" src="https://github.com/user-attachments/assets/dc72e263-a5f4-46f0-9c4e-40e5e01950aa" />
+Menu Web:<img width="1600" height="900" alt="menu" src="https://github.com/user-attachments/assets/e42860cf-67dc-448a-aa8f-2becce2b98b6" />
 
 
 Catatan
